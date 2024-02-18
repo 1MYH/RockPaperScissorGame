@@ -1,0 +1,28 @@
+*{
+    font-family: Cascadia Code;
+}
+
+body{
+    background-color: rgb(43, 37, 37);
+    color: white;
+}
+
+.img{
+    height: 35px;
+}
+
+.btn{
+    background-color: rgb(43, 37, 37);
+    border-style: solid;
+    border-radius: 100px;
+    padding-block: 15px;
+    padding-inline: 15px;
+    cursor: pointer;
+}
+
+.reset{
+    border-radius: 15px;
+    border-style: solid;
+    padding-inline: 15px;
+    padding-block: 5px;
+}
